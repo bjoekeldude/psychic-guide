@@ -10,7 +10,8 @@ int differenz(int a, int b){
 
 char feedback(){
 	return 'a';}
-
+int muli(int a, int b){
+	return a*b}
 
 //einen Kommentar
 //zweiter Kommentar
