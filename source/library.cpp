@@ -1,6 +1,6 @@
 #include <vector>
 #include <iostream>
-
+#include<string>
 
 int summe(int a, int b){
 	return a+b;}
