@@ -1,0 +1,24 @@
+# exclude build dirs
+./build/*
+./CMakeFiles/*
+CMakeFiles
+build
+CMakeCache.txt
+cmake_install.cmake
+
+# exclude documentation
+./docs/*
+docs
+.html
+.latex
+.pdf
+
+#exclude binary fragments
+.dll
+.so
+.a
+.lib
+
+# exclude visual studio files
+.sln
+.vcproj
