@@ -1,0 +1,17 @@
+# exclude build dirs
+./build
+./CMakeFiles
+CMakeCache.txt
+
+# exclude documentation
+./docs
+
+#exclude binary fragments
+.dll
+.so
+.a
+.lib
+
+# exclude visual studio files
+.sln
+.vcproj
